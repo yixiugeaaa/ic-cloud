@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  context-path: /ic-iot
+
+spring:
+  datasource:
+    url: jdbc:mysql://60.205.229.131:3306/zkhl_test?useUnicode=true&characterEncoding=utf-8
+    username: zkhl
+    spassword: zkhl123456,.
+
